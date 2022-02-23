@@ -1,0 +1,47 @@
+.navbar {
+  background: url(/src/component/img/color-background-stage-cinema-curtain-with-spotlights-and-billboard-JJ5X2N.jpg);
+}
+.navbar .navbar-brand {
+  margin-left: 4rem;
+  color: whitesmoke;
+}
+.form {
+  display: flex;
+  margin-left: 8rem;
+}
+.form .btn {
+  margin-left: 0.7rem;
+}
+.btn2 {
+  margin-left: 11rem;
+}
+
+/* //adding another css */
+
+.container2 {
+  color: antiquewhite;
+
+  margin: 0;
+  background: url(./img/kOJx6aP.jpg);
+  background-attachment: fixed;
+  min-height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.container2 .container3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  justify-content: space-around;
+  /* flex-direction: row; */
+}
+.container2 .container3 .card2 {
+  margin-top: 10px;
+  border-radius: 10px;
+  color: black;
+  background-color: antiquewhite;
+}
+.container2 .container3 .card2 .card3 {
+  background-color: antiquewhite;
+}
